@@ -8,7 +8,6 @@ This project uses a fine-tuned BERT model to classify emotions in text such as *
 
 - Format: Text-label pairs
 - Emotions: `joy`, `sadness`, `anger`, `fear`, `love`, `surprise`,`suicidal`
-- 
 ---
 
 ## 🔍 Model Overview
